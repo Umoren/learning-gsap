@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
+  color: white;
+}
+
+.spacer {
+  height: 100vh;
+}
+
+.animated-element {
+  width: 300px;
+  padding: 20px;
+  flex-direction: column;
+  background-color: #9400Df;
+  border-radius: 8px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+  position: relative;
+  left: -400px;
+}
+
+h2 {
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  font-size: 0.75em;
+  line-height: 1.5em;
+  margin-bottom: 0;
+}/*# sourceMappingURL=main.css.map */
